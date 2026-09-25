@@ -1,5 +1,7 @@
 # SEGDet - ML Reproductibility Challenge 2024
 
+[Project page](https://willguimont.com/blog/det-bench/).
+
 ## Installation
 
 Please refer to [docs/INSTALLATION.md](docs/INSTALLATION.md) for more details on how to install the required packages and dependencies.
